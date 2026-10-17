@@ -6,7 +6,7 @@ function Home() {
             <h2>
                 Home
             </h2>
-            <img src="../assets/me.png" alt="a copyright-free ocean view"/>
+            <img src="src/assets/me.png" alt="a copyright-free ocean view"/>
             <p>
                 Howdy. My name is <strong>Riley</strong>, and what you see before you is a website
                 encapsulating a barebones resume which contains a handful of information about myself,
