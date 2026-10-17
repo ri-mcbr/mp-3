@@ -1,4 +1,5 @@
 import {Link} from "react-router-dom";
+import oceanView from "../assets/me.png";
 
 function Home() {
     return (
@@ -6,7 +7,7 @@ function Home() {
             <h2>
                 Home
             </h2>
-            <img src="src/assets/me.png" alt="a copyright-free ocean view"/>
+            <img src={oceanView} alt="a copyright-free ocean view"/>
             <p>
                 Howdy. My name is <strong>Riley</strong>, and what you see before you is a website
                 encapsulating a barebones resume which contains a handful of information about myself,
