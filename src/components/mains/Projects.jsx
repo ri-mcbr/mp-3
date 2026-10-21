@@ -1,9 +1,10 @@
-import Calculator from "../components/Calculator.jsx";
+import Calculator from "../Calculator.jsx";
 import {Link} from "react-router-dom";
 
 function Projects() {
     return (
         <>
+            <title>Projects | Riley's Resume</title>
             <h2>
                 Projects
             </h2>

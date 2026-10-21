@@ -1,6 +1,7 @@
 function Certifications() {
     return (
         <>
+            <title>Certifications | Riley's Resume</title>
             <h2>
                 Certifications
             </h2>

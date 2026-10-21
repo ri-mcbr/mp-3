@@ -1,9 +1,10 @@
 import {Link} from "react-router-dom";
-import oceanView from "../assets/me.png";
+import oceanView from "../../assets/me.png";
 
 function Home() {
     return (
         <>
+            <title>Home | Riley's Resume</title>
             <h2>
                 Home
             </h2>

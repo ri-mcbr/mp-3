@@ -1,6 +1,7 @@
 function Achievements() {
     return (
         <>
+            <title>Achievements | Riley's Resume</title>
             <h2>
                 Achievements
             </h2>

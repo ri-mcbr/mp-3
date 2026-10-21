@@ -1,6 +1,7 @@
 function Experiences() {
     return (
         <>
+            <title>Experiences | Riley's Resume</title>
             <h2>
                 Work Experiences
             </h2>

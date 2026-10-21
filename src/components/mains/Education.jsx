@@ -1,6 +1,7 @@
 function Education() {
     return (
         <>
+            <title>Education | Riley's Resume</title>
             <h2>
                 Education
             </h2>

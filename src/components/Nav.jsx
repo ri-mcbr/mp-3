@@ -1,15 +1,6 @@
 import {Link} from "react-router-dom";
 
 function Nav() {
-    const links = [
-        { name: "Home", path: "/" },
-        { name: "Education", path: "/education" },
-        { name: "Experiences", path: "/experiences" },
-        { name: "Certifications", path: "/certifications" },
-        { name: "Achievements", path: "/achievements" },
-        { name: "Projects", path: "/projects" },
-    ];
-
     return (
         <nav>
             <ul>
